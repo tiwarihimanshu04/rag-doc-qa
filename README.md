@@ -53,8 +53,3 @@ rag-doc-qa/
 ├── requirements.txt    # Dependencies
 └── .env                # API keys (not committed)
 ```
-## Dashboard View
-```
-![IMG_20260220_144522](https://github.com/user-attachments/assets/b65adcfd-0931-4ffd-84b6-071b8b94ea84)
-
-```
